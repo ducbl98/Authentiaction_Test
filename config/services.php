@@ -37,9 +37,9 @@ return [
     ],
 
     'facebook' => [
-        'client_id' => '258908099669270',
-        'client_secret' => 'cf892b1222cefebd310f30ac3f2f4cbc',
-        'redirect' => 'http://localhost:8000/auth/facebook/callback',
+        'client_id' => '1026159161298544',
+        'client_secret' => 'bb778a2741cfd3d5e56459ea6078174f',
+        'redirect' => 'https://cc23-2405-4802-257-8640-39ce-6c5e-2cd9-f7c2.ngrok.io/auth/facebook/callback',
     ],
 
 ];
